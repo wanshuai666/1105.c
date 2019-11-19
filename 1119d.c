@@ -4,7 +4,7 @@
      int n,m,sum =0;
      printf("Enter n:\n");
      scanf("%d",&n);
-     while(n !=0)
+     while(n >0)
      {
          m = n%10;
          sum +=m;
