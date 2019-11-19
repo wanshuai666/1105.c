@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int  20n,i;
+    int  n,i;
     double term = 1,sum = 0;
     printf("Enter n:\n");
     scanf("%d",&n);
